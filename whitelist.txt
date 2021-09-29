@@ -314,3 +314,10 @@
 # WhatsApp
 @@||whatsapp.net^$important
 @@||whatsapp.com^$important
+# Custom
+@@||www.asadcdn.com^$important
+@@||de.ioam.de^$important
+@@||script.ioam.de^$important
+@@||tags.tiqcdn.com^$important
+@@||tagger.opecloud.com^$important
+@@||c.amazon-adsystem.com^$important
