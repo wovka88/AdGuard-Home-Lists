@@ -88,13 +88,6 @@
 @@||cdn.optimizely.com^$important
 @@||cdn2.optimizely.com^$important
 @@||cdn3.optimizely.com^$important
-# Akamai Technologies
-@@||akamaihd.net^$important
-@@||akamaitechnologies.com^$important
-@@||akamaized.net^$important
-@@||widget-cdn.rpxnow.com^$important
-@@||akamai.net^$important
-@@||akadns.net^$important
 # Sonarr TV Soft
 @@||apt.sonarr.tv^$important
 @@||download.sonarr.tv^$important
