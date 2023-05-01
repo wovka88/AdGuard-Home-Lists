@@ -1,4 +1,11 @@
 # My Adguard Home whitelist
+# Akamai Technologies
+@@||akamaihd.net^$important
+@@||akamaitechnologies.com^$important
+@@||akamaized.net^$important
+@@||widget-cdn.rpxnow.com^$important
+@@||akamai.net^$important
+@@||akadns.net^$important
 # Instagram
 @@||cdninstagram.com^$important
 @@||instagram.com^$important
